@@ -11,5 +11,5 @@ The trained workforce is deployed to collect the meter readings from the site an
 
 This repository is covering the business case of detecting the digits from the images of digital meters. We can use this model to read the digits automatically from the images and store the result in the database. I am only covering the detection part in my repository.
 
-For more details, please refer to the associated article -
+For more details, please refer to the associated article - https://medium.com/@gauravsaini.728/digit-recognition-of-digital-meters-using-tensorflow-2-object-detection-api-48364cd678a9
 
