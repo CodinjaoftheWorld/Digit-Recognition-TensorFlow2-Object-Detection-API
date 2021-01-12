@@ -1,7 +1,7 @@
 # Digit-Recognition-TensorFlow2-Object-Detection-API
 Digit Recognition of digital meters using TensorFlow 2 Object Detection API
 
-![](lp_test.png) ![](lp_predicted.png)
+![](/sample_detection/d2.png) ![](/sample_detection/d4.png)
 
 This repository showcases the digit recognition on the utility meters with TensorFlow2 Object Detection API using the MobileNet V1 model.
 
